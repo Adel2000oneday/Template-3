@@ -14,15 +14,15 @@ function opentab(tabname){
     
 }
 function product(x){
-    imgProduct.src = "/images/img1.png"
+    imgProduct.src = "images/img1.png"
     console.log(imgProduct)
 }
 function product2(y){
-    imgProduct.src = "/images/img3.png"
+    imgProduct.src = "images/img3.png"
     console.log(imgProduct)
 }
 function product3(z){
-    imgProduct.src = "/images/img4.png"
+    imgProduct.src = "images/img4.png"
     console.log(imgProduct)
 }
 //***********************end Prouducts */
